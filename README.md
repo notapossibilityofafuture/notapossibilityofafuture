@@ -10,7 +10,7 @@ Actualmente estoy enfocado en desarrollo de Minecraft, Java/Kotlin, Linux y proy
 
 ### `about`
 
-* Estudiante de Tecmilenio
+
 * Desarrollador de Minecraft
 * Programando principalmente en **Java** y **Kotlin**
 * Uso **Linux** para desarrollo
